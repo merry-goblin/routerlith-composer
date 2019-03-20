@@ -5,7 +5,7 @@ Routerlith HttpMapper
 
 ### Sample
 
-[Sample & documentation](https://github.com/merry-goblin/routerlith-composer)
+[Sample & documentation](https://github.com/merry-goblin/routerlith)
 
 ### Install
 
