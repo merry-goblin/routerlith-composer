@@ -9,7 +9,7 @@ Routerlith HttpMapper
 
 ### Install
 
-php composer require merry-goblin/routerlith:"dev-master"
+- composer require merry-goblin/routerlith:"dev-master"
 
 --------------------------
 
